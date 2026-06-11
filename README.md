@@ -38,3 +38,5 @@ SUNCAT OS 느낌의 개인 포트폴리오 및 갤러리 홈페이지입니다.
 - 배경화면 변경 기능
 - Dynamic Island 알림 시스템
 - Live2D 캐릭터 지원
+
+## Discord : suncat_
